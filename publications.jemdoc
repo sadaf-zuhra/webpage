@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{publications.html}
+= Sadaf ul Zuhra  | Princeton University |  Publications
+ 
+
+== Conferences
+- [https://ieeexplore.ieee.org/abstract/document/10476928?casa_token=E731gvtQJiQAAAAA:E0caG9ZAaWXFo7IiAf-TtsnfHQVdJ3Ub8criImLKplUk7aLuDe2f2NwGtMx-n3Y8WalCWofk2w ``*Random Orthogonalization for Private Wireless Federated Learning*''], with Mohamed Seif, Karim Banawan, and H. Vincent Poor. \n
+In Proc. Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, Oct., 2023.
+- [https://hal.inria.fr/hal-03695522/document ``*Information-Energy Trade-offs with EH Non-linearities in the Finite Block-Length Regime with Finite Constellations*''], with Samir M. Perlaza, H. Vincent Poor, and Mikael Skoglund. \n
+In Proc. IEEE Information Theory Workshop (ITW), Mumbai, India, Nov., 2022. *(Invited Paper)*
+- [https://hal.inria.fr/hal-03563756/document ``*Achievable Information-Energy Region in the Finite Block-Length Regime with Finite Constellations*''], with Samir M. Perlaza, H. Vincent Poor, and Eitan Altman. \n
+In Proc. IEEE International Symposium on Information Theory (ISIT), Espoo, Finland, Jul., 2022.
+- [https://hal.inria.fr/hal-03339165/document ``*Simultaneous Information and Energy Transmission with Finite Constellations*''], with Samir M. Perlaza, and Eitan Altman. \n
+In Proc. IEEE Information Theory Workshop (ITW), Kanazawa, Japan, Oct., 2021.
+- [https://ieeexplore.ieee.org/document/8885874 ``*Auction Based Resource Allocation and Pricing for Heterogeneous User Demands in eMBMS*''], with Prasanna Chaporkar, and Abhay Karandikar.  \n
+In Proc. IEEE Wireless Communications and Networking Conference (WCNC), Marrakech, Morocco, pp. 1-6, 2019. 
+- [https://ieeexplore.ieee.org/document/7925723 ``*Efficient Grouping and Resource Allocation for Multicast Transmission in LTE*''], with Prasanna Chaporkar, and Abhay Karandikar. \n
+In Proc. IEEE Wireless Communications and Networking Conference (WCNC), San Francisco, CA, pp. 1-6, 2017.
+
+== Journals
+- [https://www.mdpi.com/2673-8732/4/2/9 ``*Multi-Connectivity for Multicast Video Streaming in Cellular Networks*''], with Prasanna Chaporkar, Abhay Karandikar, and H. Vincent Poor. \n 
+Network, vol. 4, no. 2, May. 2024. 
+- [https://www.mdpi.com/1099-4300/25/7/1045 ``*Optimal Resource Allocation for Loss-Tolerant Multicast Video Streaming*''], with Karl-Ludwig Besser, Prasanna Chaporkar, Abhay Karandikar, and H. Vincent Poor. \n 
+Entropy, vol. 25, Jul. 2023.
+- [https://ieeexplore.ieee.org/abstract/document/8861385?casa_token=_Kib1VC3oaUAAAAA:BuDV5gAaj3LReIeJmgsMzAYFKYsPrQacR8EYOBaq1264Gy24TLG19avLXafAk-SteKQCk7J4sdE ``*Towards Optimal Grouping and Resource Allocation for Multicast Streaming in LTE*''], with Prasanna Chaporkar, and Abhay Karandikar. \n 
+IEEE Transactions on Vehicular Technology, vol. 68, no. 12, pp. 12239-12255, Dec. 2019.
+
+== Patents
+- [https://patents.google.com/patent/US20210176603A1/en ``*Methods and Systems for Using Multi-Connectivity for Multicast Transmissions in a Communication System*''], with Abhay Karandikar, Prasanna Chaporkar, and Pranav K. Jha. \n
+US Patent (11,368,818) granted June 2022.
+#Patent accepted, June 2020 (India) (201921051123), April 2020 (US) (16/842,021).
+
+== Pre-prints
+- [https://arxiv.org/pdf/2211.05873.pdf ``*On the Trade-offs Between Information and Energy Transmission in the Finite Block-Length Regime with Finite Channel Inputs*''], with Samir M. Perlaza, H. Vincent Poor, and Mikael Skoglund. \n 
+Submitted to IEEE Transactions on Information Theory, May. 2023.
+
+== Research Reports
+- [./report.pdf ``*Simultaneous Information and Energy Transmission with Short Packets and Finite Constellations*''], with Samir M. Perlaza, H. Vincent Poor and Mikael Skoglund. \n
+Aug., 2024.
+- [https://hal.inria.fr/hal-03230482/document ``*Simultaneous Information and Energy Transmission with Finite Constellations*''], with Samir M. Perlaza, H. Vincent Poor and Eitan Altman. \n
+Research Report, INRIA, No. RR-9409, Sophia Antipolis, France, Jan., 2022.
+
