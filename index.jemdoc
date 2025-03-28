@@ -1,15 +1,17 @@
 # jemdoc: menu{MENU}{index.html} 
-= Sadaf ul Zuhra | Ericsson Research | Postdoctoral Researcher
+= Sadaf ul Zuhra | Ericsson Research | Experienced Researcher
 
 
 ~~
 {}{img_left}{sadaf_new.jpg}{Photo of Sadaf ul Zuhra}{230}{300}
 
-*Postdoctoral Research Associate* \n
-[https://ece.princeton.edu Department of Electrical and Computer Engineering] \n
-[https://www.princeton.edu Princeton University]\n 
-Princeton, New Jersey, USA \n
-Advised by: [https://ece.princeton.edu/people/h-vincent-poor H. Vincent Poor] \n \n
+*Experienced Researcher* \n
+Ericsson Research \n
+Stockholm County, Sweden  \n \n
+#[https://ece.princeton.edu Department of Electrical and Computer Engineering] \n
+#[https://www.princeton.edu Princeton University]\n 
+#Princeton, New Jersey, USA \n
+#Advised by: [https://ece.princeton.edu/people/h-vincent-poor H. Vincent Poor] \n \n
 
 [https://scholar.google.com/citations?user=u16As0YAAAAJ&hl=en Google Scholar]
 
@@ -17,10 +19,10 @@ Advised by: [https://ece.princeton.edu/people/h-vincent-poor H. Vincent Poor] \n
 
 ~~~
 == Contact
-Princeton University \n
-Friend Center for Engineering Education, FC306 \n
-7799 William St, Princeton, NJ 08540 \n
-[sadaf.zuhra@princeton.edu]
+Ericsson AB \n
+Isafjordsgatan 14F, 16440 Kista \n
+Sweden \n
+[sadaf.ul.zuhra@ericsson.com]
 ~~~
 
 ~~~
@@ -30,13 +32,14 @@ Wireless communications; Information theory; Federated learning; Privacy; SWIPT
 
 ~~~
 == Updates
+- *March, 2025*: Our paper [https://ieeexplore.ieee.org/document/10937744 Simultaneous Information and Energy Transmission with Short Packets and Finite Constellations] has been accepted for publication in IEEE Transactions on Communications. Joint work with Samir M. Perlaza, H. Vincent Poor, Eitan Altman and Mikael Skoglund.
+- *Jan, 2025*: Joined *Ericsson Research*, Stockholm, Sweden as an Experienced researcher in RA Networks.
 - *May, 2024*: Our paper [https://www.mdpi.com/2673-8732/4/2/9 Multi-Connectivity for Multicast Video Streaming in Cellular Networks] published in Network. Joint work with Prasanna Chaporkar, Abhay Karandikar, and H. Vincent Poor.
 - *Apr, 2024*: The full version of the paper [https://ieeexplore.ieee.org/abstract/document/10476928?casa_token=E731gvtQJiQAAAAA:E0caG9ZAaWXFo7IiAf-TtsnfHQVdJ3Ub8criImLKplUk7aLuDe2f2NwGtMx-n3Y8WalCWofk2w Random Orthogonalization for Private Wireless Federated Learning] is now available online.
 - *Feb, 2024*: Invited to present my work on ``Information-Energy trade-offs in the finite block-length regime with finite channel inputs," in the Signal and Information Processing Seminar Series at Rutgers University, NJ, USA.
 - *Jul, 2023*: Our paper [./Asilomar_FL.pdf Random Orthogonalization for Private Wireless Federated Learning] accepted to Asilomar 2023. Joint work with Mohamed Seif, Karim Banawan, and H. Vincent Poor.
 - *Jul, 2023*: Our paper [https://www.mdpi.com/1099-4300/25/7/1045 Optimal Resource Allocation for Loss-Tolerant Multicast Video Streaming] published in Entropy. Joint work with Karl-Ludwig Besser, Prasanna Chaporkar, Abhay Karandikar, and H. Vincent Poor.
 - *Jan, 2023*: Joined the [https://ece.princeton.edu ECE] department at Princeton University as a postdoctoral researcher. Advised by [https://ece.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor].
-- *Nov, 2022*: Submitted our paper [https://hal.inria.fr/hal-03848708/document ``Information-Energy Regions in the Finite Block-Length Regime with Finite Channel Inputs''] to *IEEE Transactions on Information Theory*. Joint work with Samir M. Perlaza, H. Vincent Poor, Eitan Altman and Mikael Skoglund.
 - *June, 2022*: Will be presenting our paper [https://hal.inria.fr/hal-03563756/document ``Achievable Information-Energy Region in the Finite Block-Length Regime with Finite Constellations''] at *ISIT 2022* in Espoo, Finland on June 30. Joint work with Samir M. Perlaza, H. Vincent Poor, and Eitan Altman.
 - *June, 2022*: Our patent titled [https://patents.google.com/patent/US20210176603A1/en "Methods and Systems for Using Multi-Connectivity for Multicast Transmissions in a Communication System,''] U.S. Patent Application No. 16/842,021 has been accepted. It will issue as Patent Number 11,368,818. Jointly with Abhay Karandikar, Prasanna Chaporkar, and Pranav Kumar Jha.
 - *June, 2022*: Will be giving a virtual seminar on Simultaneous Wireless Information and Energy Transmission in the [https://www.digitalfutures.kth.se/event/dive-deep-seminar-with-dr-sadaf-ul-zuhra-inria-sophia-antipolis/ KTH Digital Futures] Dive Deep seminar series on Thursday, June 9, 12:00 CEST.

@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{publications.html}
-= Sadaf ul Zuhra  | Princeton University |  Publications
+= Sadaf ul Zuhra  | Ericsson Research |  Publications
  
 
 == Conferences
@@ -17,6 +17,8 @@ In Proc. IEEE Wireless Communications and Networking Conference (WCNC), Marrakec
 In Proc. IEEE Wireless Communications and Networking Conference (WCNC), San Francisco, CA, pp. 1-6, 2017.
 
 == Journals
+- [https://ieeexplore.ieee.org/document/10937744 ``*On the Trade-offs Between Information and Energy Transmission in the Finite Block-Length Regime with Finite Channel Inputs*''], with Samir M. Perlaza, H. Vincent Poor, and Mikael Skoglund. \n 
+IEEE Transactions on Communications, March. 2025.
 - [https://www.mdpi.com/2673-8732/4/2/9 ``*Multi-Connectivity for Multicast Video Streaming in Cellular Networks*''], with Prasanna Chaporkar, Abhay Karandikar, and H. Vincent Poor. \n 
 Network, vol. 4, no. 2, May. 2024. 
 - [https://www.mdpi.com/1099-4300/25/7/1045 ``*Optimal Resource Allocation for Loss-Tolerant Multicast Video Streaming*''], with Karl-Ludwig Besser, Prasanna Chaporkar, Abhay Karandikar, and H. Vincent Poor. \n 
@@ -28,10 +30,6 @@ IEEE Transactions on Vehicular Technology, vol. 68, no. 12, pp. 12239-12255, Dec
 - [https://patents.google.com/patent/US20210176603A1/en ``*Methods and Systems for Using Multi-Connectivity for Multicast Transmissions in a Communication System*''], with Abhay Karandikar, Prasanna Chaporkar, and Pranav K. Jha. \n
 US Patent (11,368,818) granted June 2022.
 #Patent accepted, June 2020 (India) (201921051123), April 2020 (US) (16/842,021).
-
-== Pre-prints
-- [https://arxiv.org/pdf/2211.05873.pdf ``*On the Trade-offs Between Information and Energy Transmission in the Finite Block-Length Regime with Finite Channel Inputs*''], with Samir M. Perlaza, H. Vincent Poor, and Mikael Skoglund. \n 
-Submitted to IEEE Transactions on Information Theory, May. 2023.
 
 == Research Reports
 - [./report.pdf ``*Simultaneous Information and Energy Transmission with Short Packets and Finite Constellations*''], with Samir M. Perlaza, H. Vincent Poor and Mikael Skoglund. \n
